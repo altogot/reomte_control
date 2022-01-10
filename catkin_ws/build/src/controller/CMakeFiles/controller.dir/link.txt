@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -O3 -DNDEBUG  -rdynamic CMakeFiles/controller.dir/src/test.cpp.o CMakeFiles/controller.dir/src/iot_hub_platform.cpp.o  -o ../../devel/lib/controller/controller  ../../lib/libiot_sdk.a ../../lib/libiot_platform.a ../../lib/libiot_sdk.a ../../lib/libmbedtls.a -lpthread ../../lib/libmbedx509.a ../../lib/libmbedcrypto.a 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/libmbedtls.a  CMakeFiles/mbedtls.dir/library/debug.c.o CMakeFiles/mbedtls.dir/library/net_sockets.c.o CMakeFiles/mbedtls.dir/library/ssl_cache.c.o CMakeFiles/mbedtls.dir/library/ssl_ciphersuites.c.o CMakeFiles/mbedtls.dir/library/ssl_cli.c.o CMakeFiles/mbedtls.dir/library/ssl_cookie.c.o CMakeFiles/mbedtls.dir/library/ssl_srv.c.o CMakeFiles/mbedtls.dir/library/ssl_ticket.c.o CMakeFiles/mbedtls.dir/library/ssl_tls.c.o
+/usr/bin/ranlib ../../../../lib/libmbedtls.a

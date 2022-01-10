@@ -1,0 +1,8 @@
+prefix=/home/xjh/remote_control/catkin_ws/build/devel
+
+Name: controller
+Description: Description of controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs

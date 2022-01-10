@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../lib/libiot_platform.a  CMakeFiles/iot_platform.dir/os/linux/HAL_Device_linux.c.o CMakeFiles/iot_platform.dir/os/linux/HAL_Log_linux.c.o CMakeFiles/iot_platform.dir/os/linux/HAL_OS_linux.c.o CMakeFiles/iot_platform.dir/os/linux/HAL_TCP_linux.c.o CMakeFiles/iot_platform.dir/os/linux/HAL_Timer_linux.c.o CMakeFiles/iot_platform.dir/os/linux/HAL_UDP_linux.c.o CMakeFiles/iot_platform.dir/tls/mbedtls/HAL_DTLS_mbedtls.c.o CMakeFiles/iot_platform.dir/tls/mbedtls/HAL_TLS_mbedtls.c.o
+/usr/bin/ranlib ../../../lib/libiot_platform.a

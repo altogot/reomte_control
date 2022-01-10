@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/xjh/remote_control/catkin_ws/build/devel/setup.sh

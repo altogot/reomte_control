@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/controller/include/RemoteController.hpp
+errno.h
+-
+fcntl.h
+-
+iostream
+-
+linux/input.h
+-
+linux/joystick.h
+-
+string.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+unistd.h
+-
+thread
+-
+iostream
+-
+
+/home/xjh/remote_control/catkin_ws/src/controller/src/test_controller.cpp
+RemoteController.hpp
+/home/xjh/remote_control/catkin_ws/src/controller/src/RemoteController.hpp
+

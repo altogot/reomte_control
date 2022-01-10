@@ -1,0 +1,8 @@
+prefix=/home/xjh/remote_control/catkin_ws/build/devel
+
+Name: rabbitmq_test
+Description: Description of rabbitmq_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
